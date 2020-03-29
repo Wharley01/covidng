@@ -26,7 +26,7 @@
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-parrot-css": "^2.0.0",
-    "vue-cli-plugin-path-vue": "^3.5.0",
+    "vue-cli-plugin-path-vue": "^3.9.0",
     "vue-route-generator": "^0.4.1",
     "vue-template-compiler": "^2.6.11",
     "webpack-assets-manifest": "^3.1.1"

@@ -8022,10 +8022,10 @@ vue-cli-plugin-parrot-css@^2.0.0:
   dependencies:
     chalk "^2.4.2"
 
-vue-cli-plugin-path-vue@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/vue-cli-plugin-path-vue/-/vue-cli-plugin-path-vue-3.5.0.tgz#3f7c8ab650ec59f6f1b1963f414b6901c470f363"
-  integrity sha512-5HarPe3qdEYJp+6lcK8dlvDhejPkHYUPTAMBCIQEnJgOEEX/dL/BPZ8IE+CHkHwaVz5gyMi09IxO9pcDHpdMZg==
+vue-cli-plugin-path-vue@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-path-vue/-/vue-cli-plugin-path-vue-3.9.0.tgz#a3b7853c55fc945f093047f4e26897a703fc242f"
+  integrity sha512-duZ0n+SkMFPTx1pShIMPT/hDccCr8LegFjcQxr2Zj53pNeLtYaHN81MSHJ8tOudHriktfUTtobm+jCG5jT/2PQ==
   dependencies:
     chalk "^2.4.2"
 
